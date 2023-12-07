@@ -26,3 +26,4 @@ $(document).ready(function () {
      $("#newMember").css("left","100%");
   });
 });
+
