@@ -114,8 +114,5 @@ public class App {
             model.put("newHero",newSquad.getSquadName());
             return new ModelAndView(model, "success.hbs");
         }, new HandlebarsTemplateEngine());
-
-
     }
-
 }
