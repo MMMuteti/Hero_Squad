@@ -32,7 +32,7 @@ public class Hero {
         return new Hero("Arrow",23,"Master Archer","Human");
     }
     public static Hero setUpNewHero1(){
-        return new Hero("Aquaman",30,"Night Vision","Land");
+        return new Hero("wonderwoman",30,"Night Vision","Land");
     }
     public static Hero setUpNewHero2(){
         return new Hero("Deathstroke",30,"Tactical Genius","Humanity/Emotional");
