@@ -24,12 +24,12 @@ a{
 
 }
 
-
 .btns:hover{
   background: rgb(0, 0, 0);
   box-shadow: 0 0 5px rgba(255, 255, 255, 0.24);
   color: white;
 }
+
 .btn-green{
 	background: green;
 	margin-top: 5px;
@@ -202,9 +202,8 @@ nav>ul li{
   60%{box-shadow: 0px 0px 20px rgb(255, 255, 255)}
 }
 
-/*-----------------------------------
-            HERO STATS
------------------------------------*/
+// HERO STATS //
+
 .hero-stats{
   width: 100%;
   z-index: 4;
@@ -242,11 +241,8 @@ nav>ul li{
 	padding: 5px 30px;
 }
 
+// HERO FORM //
 
-
-/*-----------------------------------
-            HERO FORM
------------------------------------*/
 .form-cont{
   position: relative;
   width: 100%;
